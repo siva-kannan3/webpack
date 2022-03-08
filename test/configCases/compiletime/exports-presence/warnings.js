@@ -10,5 +10,49 @@ module.exports = [
 	{
 		moduleName: /ddd/,
 		message: /NoNo.+not found/
+	},
+	{
+		moduleName: /index/,
+		message: /a.+not found/
+	},
+	{
+		moduleName: /index/,
+		message: /a.+not found/
+	},
+	{
+		moduleName: /index/,
+		message: /a.+not found/
+	},
+	{
+		moduleName: /index/,
+		message: /a.+not found/
+	},
+	{
+		moduleName: /index/,
+		message: /a.+not found/
+	},
+	{
+		moduleName: /index/,
+		message: /a.+not found/
+	},
+	{
+		moduleName: /index/,
+		message: /a.+not found/
+	},
+	{
+		moduleName: /index/,
+		message: /a.+not found/
+	},
+	{
+		moduleName: /index/,
+		message: /a.+not found/
+	},
+	{
+		moduleName: /index/,
+		message: /a.+not found/
+	},
+	{
+		moduleName: /index/,
+		message: /a.+not found/
 	}
 ];
